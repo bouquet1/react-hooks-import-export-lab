@@ -7,7 +7,7 @@ import { username, city, image } from "../data/user";
 function App() {
   return (
     <div>
-      {(username, city, image)}
+      {/* {(username, city, image)} */}
       <NavBar />
       <Home />
       <About />
