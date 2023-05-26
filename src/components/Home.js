@@ -5,7 +5,7 @@ import NavBar from "./NavBar";
 function Home() {
   return (
     <div id="home">
-      <NavBar />
+      {/* <NavBar /> */}
       <h1>
         {username} is a Web Developer from {city}
       </h1>
